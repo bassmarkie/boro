@@ -1,0 +1,19 @@
+{
+  "name": "boro",
+  "version": "1.0.0",
+  "description": "problem solutions",
+  "main": "maxScore.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bassmarkie/boro.git"
+  },
+  "author": "mark bassett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bassmarkie/boro/issues"
+  },
+  "homepage": "https://github.com/bassmarkie/boro#readme"
+}
