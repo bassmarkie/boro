@@ -4,7 +4,7 @@
   "description": "problem solutions",
   "main": "maxScore.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha *.spec.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bassmarkie/boro/issues"
   },
-  "homepage": "https://github.com/bassmarkie/boro#readme"
+  "homepage": "https://github.com/bassmarkie/boro#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
 }
