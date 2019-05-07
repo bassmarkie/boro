@@ -18,6 +18,8 @@
   "homepage": "https://github.com/bassmarkie/boro#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.1.4"
+    "mocha": "^6.1.4",
+    "xml2js": "^0.4.19",
+    "yaml": "^1.5.1"
   }
 }

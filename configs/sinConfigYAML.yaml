@@ -1,0 +1,5 @@
+# configuration
+- configuration:
+    name: YAML
+    email: YAML@test.com
+    key: Y2
